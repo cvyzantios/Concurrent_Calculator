@@ -1,8 +1,4 @@
 
-Here's your code with comments in English:
-
-cpp
-Copy code
 #include "pch.h" // Precompiled header file, if available
 #include <iostream> // Including the input/output stream library
 using namespace std;
